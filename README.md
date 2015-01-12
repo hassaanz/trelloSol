@@ -21,3 +21,5 @@ The code contains a brute force algorithm implementation in node.js.
 
 ## Executing:
 I've used Node.js to test out the functions and check the results. Node command line can be used to execute the file and see the results.
+
+Didn't get any positive reply from the company :(
