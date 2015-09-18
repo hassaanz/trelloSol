@@ -1,5 +1,5 @@
 # Trello Node.JS Developer Job Solution
-My solution to [Trello Node.JS Developer](https://trello.com/jobs/developer) Job application.
+My solution to [Trello Node.JS Developer](http://web.archive.org/web/20141209192900/https://trello.com/jobs/developer) Job application.
 
 After checking the problem statement, I knew that I was supposed to crack the hash.
 I knew that the simplest way would be to use the Brute Force technique.
